@@ -1,7 +1,7 @@
-# Image-processor
+# Image-Processor
 
 Group Project For OOD 
-BY:Nora Schmitt, Lien Zhang
+BY: Nora Schmitt, Lien Zhang
 
 Model
 
